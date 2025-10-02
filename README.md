@@ -6,7 +6,7 @@ Welcome to the Typing Speed Test Game! This project transforms the practice of t
 
 - **[Project Demo Video](#)**: [https://youtu.be/r00dhz494ac]
 - **[Project Blog Article](#)**: [https://www.linkedin.com/posts/gerges-zechariah_alx-activity-7216937002976346112-3vuF?utm_source=share&utm_medium=member_desktop]
-- **Author's LinkedIn**: [Gerges-Creative](#)
+- **Author's LinkedIn**: [gerges-zechariah-dev](#)
 
 ## Inspiration and Story
 
